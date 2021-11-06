@@ -86,5 +86,7 @@ mkdir -p {low2,middle2,super2}
 ls
 cd ..
 mv low/{1.txt,2.txt} super
+
+
 #запускаю файл
 ./myscript.sh
