@@ -87,6 +87,5 @@ ls
 cd ..
 mv low/{1.txt,2.txt} super
 
-
 #запускаю файл
 ./myscript.sh
